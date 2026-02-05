@@ -1,4 +1,5 @@
-# Agentic-IoT-Guard: Autonomous Cyber-Physical Security 🛡️
+# Agentic-IoT-Guard: The Future Of Home Security 🛡️
+[PPT Link](https://docs.google.com/presentation/d/1Y4odsqUE003ysN60uuqUX-CiHBanp7Ai8DOSZALeqBU/edit?usp=sharing)
 
 ## 1. Project Vision
 As home IoT ecosystems grow, traditional security fails because smart devices (ACs, TVs, Bulbs) lack the compute power to defend themselves. **Agentic-IoT-Guard** is a student-led prototype of a "Self-Thinking" security appliance. Unlike a passive firewall, this system acts as an **Active Agent** with a specific goal: *Identify, Deceive, and Neutralize* threats within the home network.
